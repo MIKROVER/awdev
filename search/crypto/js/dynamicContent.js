@@ -100,10 +100,11 @@ function AboutPage() {
           <a href="https://m.awdev.my.id"><i class="fab fa-instagram"></i></a>
           <a href="https://youtube.com/channel/UCyp-Fn_0Ek4_aXIFbcWaq0w"><i class="fab fa-youtube"></i></a>
         </div>
-        <p align="center">
+       <p>
+        <div id="imgandauthor">
         
-        <img src="https://awdev-corporation.github.io/awdev/favicon.png" alt="favicon.png"></img></p>
-        
+        <div class="imgiglobal" style="background-image:url(https://www.awdev.my.id/favicon.png)"></div>
+        </p>
         <p></a></p>
         <h3 align="center">AWDEV CORPORATION</h3>
         
