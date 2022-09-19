@@ -89,6 +89,15 @@
 - [YOUTUBE](https://youtube.com/channel/UCyp-Fn_0Ek4_aXIFbcWaq0w)
   - [SUBCRIBE](https://youtube.com/channel/UCyp-Fn_0Ek4_aXIFbcWaq0w)
   - [YOUTUBE DOWNLOADER](https://www.awdev.my.id/youtube/downloader.html)
+- [SEARCH](http://www.awdev.my.id/search/)
+  - [CSE](http://www.awdev.my.id/search/cse.html)
+  - [Crypto](http://www.awdev.my.id/search/crypto/index.html)
+  - [Github Profile Repo](http://www.awdev.my.id/search/github/index.html)
+- [BLOOG](http://www.awdev.my.id/blog)
+  - [BLOOG 1](http://www.awdev.my.id/blog/a1.html)
+  - [BLOOG 2](http://www.awdev.my.id/blog/a2.html)
+- [urls.cfg](http://www.awdev.my.id/urls.cfg)
+- [SITEMAP](https://www.awdev.my.id/sitemap.txt)
 - [FAQ](https://www.awdev.my.id/faq.html)
 - [PRIVASY](https://www.awdev.my.id/privasy.html)
 - [404](https://www.awdev.my.id/404.html)
@@ -97,11 +106,28 @@
   - [awdev-2-2.apk](app/awdev-2-2.apk)
   - [htmleditor-2-1.aab.zip](app/htmleditor-2-1.aab.zip)
   - [htmleditor-2-1.apk](app/htmleditor-2-1.apk)
+  - [CoinTracker.apk](http://www.awdev.my.id/search/crypto/CoinTracker.apk)
+  - [Youtube-Downloader.apk](http://www.awdev.my.id/youtube/youtube-downloader.apk)
 - [License](LICENSE)
 - [SECURITY](SECURITY.md)
 - [Authors](#authors)
 - [Acknowledgements](#acknowledgements)
 
+## INSTAL
+
+GITHUB CLI
+```
+gh repo clone awdev-corporation/awdev
+```
+HTTP/HTTPS
+
+```
+https://github.com/awdev-corporation/awdev.git
+```
+ZIP
+```
+https://github.com/awdev-corporation/awdev/archive/refs/heads/main.zip
+```
 ## Sponsor this project
 
 [@wahyu9kdl](https://github.com/sponsors/wahyu9kdl)
