@@ -108,6 +108,8 @@
   - [htmleditor-2-1.apk](app/htmleditor-2-1.apk)
   - [CoinTracker.apk](http://www.awdev.my.id/search/crypto/CoinTracker.apk)
   - [Youtube-Downloader.apk](http://www.awdev.my.id/youtube/youtube-downloader.apk)
+- [Wiki](https://github.com/awdev-corporation/awdev.wiki.git)
+- [Pull Requests](https://github.com/awdev-corporation/awdev/pulls)
 - [License](LICENSE)
 - [SECURITY](SECURITY.md)
 - [Authors](#authors)
