@@ -41,6 +41,7 @@
   - [Kode Post](https://www.awdev.my.id/android/kodepost)
   - [Screenshot](https://www.awdev.my.id/android/screen/index.html)
   - [Visual Code](https://www.awdev.my.id/android/vc/index.html)
+  - [Editor Code](https://www.awdev.my.id/android/vc/editor.html)
   - [Character](https://www.awdev.my.id/android/character.html)
   - [Android Asset](https://www.awdev.my.id/android/index.html)
 - [Thema](https://www.awdev.my.id/thema)
