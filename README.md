@@ -44,6 +44,7 @@
   - [Editor Code](https://www.awdev.my.id/android/vc/editor.html)
   - [Character](https://www.awdev.my.id/android/character.html)
   - [Android Asset](https://www.awdev.my.id/android/index.html)
+  - [EQ](http://www.awdev.my.id/android/EQ/index.html)
 - [Thema](https://www.awdev.my.id/thema)
   - [AMP 1 ⚡](https://www.awdev.my.id/thema/amp/v1.html)
   - [AMP 2 ⚡](https://www.awdev.my.id/thema/amp/v2.html)
