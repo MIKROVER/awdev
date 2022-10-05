@@ -46,6 +46,7 @@
   - [Android Asset](https://www.awdev.my.id/android/index.html)
   - [EQ Generator](http://www.awdev.my.id/android/EQ/index.html)
   - [APP Privasy Generator](https://www.awdev.my.id/android/privasy/index.html)
+  - [AWDEV STUDIO](www.awdev.my.id/android/studio/index.html)
 - [Thema](https://www.awdev.my.id/thema)
   - [AMP 1 ⚡](https://www.awdev.my.id/thema/amp/v1.html)
   - [AMP 2 ⚡](https://www.awdev.my.id/thema/amp/v2.html)
@@ -95,6 +96,7 @@
 - [SEARCH](http://www.awdev.my.id/search/)
   - [CSE](http://www.awdev.my.id/search/cse.html)
   - [Crypto](http://www.awdev.my.id/search/crypto/index.html)
+  - [Buy APP Crypto](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82DLHDSRV7J68)
   - [Github Profile Repo](http://www.awdev.my.id/search/github/index.html)
 - [BLOOG](http://www.awdev.my.id/blog)
   - [BLOOG 1](http://www.awdev.my.id/blog/a1.html)
@@ -116,6 +118,8 @@
 - [License](LICENSE)
 - [SECURITY](SECURITY.md)
 - [Authors](#authors)
+- [Inovasi](https://www.paypal.com/invoice/p/#KABVQRFBGDMQCPJ6)
+- [Sponsored](https://github.com/sponsors/wahyu9kdl)
 - [Acknowledgements](#acknowledgements)
 
 ## INSTAL
@@ -133,6 +137,32 @@ ZIP
 ```
 https://github.com/awdev-corporation/awdev/archive/refs/heads/main.zip
 ```
+# SERVICE
+
+OPPEN ON THIS SITE
+
+[https://www.awdev.my.id](https://www.awdev.my.id)
+
+[https://qr.awdev.my.id](https://qr.awdev.my.id)
+
+[https://m.awdev.my.id](https://m.awdev.my.id)
+
+[https://go.awdev.my.id](https://go.awdev.my.id)
+
+[https://app.awdev.my.id](https://app.awdev.my.id)
+
+[https://shop.awdev.my.id](https://shop.awdev.my.id)
+
+[https://qr-awdev.blospot.com](https://qr-awdev.blospot.com)
+
+[https://go-awdev.blospot.com](https://go-awdev.blospot.com)
+
+[https://pub-awdev.blospot.com](https://pub-awdev.blospot.com)
+
+[https://www.awdev.eu.org](https://www.awdev.eu.org)
+
+[https://cloud.awdev.eu.org](https://cloud.awdev.eu.org)
+
 ## Sponsor this project
 
 [@wahyu9kdl](https://github.com/sponsors/wahyu9kdl)
