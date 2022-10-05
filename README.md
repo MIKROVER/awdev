@@ -153,11 +153,11 @@ OPPEN ON THIS SITE
 
 [https://shop.awdev.my.id](https://shop.awdev.my.id)
 
-[https://qr-awdev.blospot.com](https://qr-awdev.blospot.com)
+[https://qr-awdev.blogspot.com](https://qr-awdev.blogspot.com)
 
-[https://go-awdev.blospot.com](https://go-awdev.blospot.com)
+[https://go-awdev.blogspot.com](https://go-awdev.blogspot.com)
 
-[https://pub-awdev.blospot.com](https://pub-awdev.blospot.com)
+[https://pub-awdev.blogspot.com](https://pub-awdev.blogspot.com)
 
 [https://www.awdev.eu.org](https://www.awdev.eu.org)
 
